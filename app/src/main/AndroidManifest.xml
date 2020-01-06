@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.fufufu">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".admin.ListRiwayat"></activity>
+        <activity android:name=".admin.ListSarana" />
+        <activity android:name=".mahasiswa.ListActivity3" />
+        <activity android:name=".admin.ListActivity2" />
+        <activity android:name=".mahasiswa.MainActivity2" />
+        <activity android:name=".admin.ListActivity" />
+        <activity android:name=".admin.MainActivity" />
+        <activity
+            android:name=".Layar"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+        <activity android:name=".admin.propil" />
+        <activity android:name=".mahasiswa.Yakinpinjam" />
+        <activity android:name=".admin.Saranaactv" />
+        <activity android:name=".Lupapasword" />
+        <activity android:name=".admin.Editpropil" />
+        <activity android:name=".mahasiswa.Editpropilku" />
+        <activity android:name=".admin.Yakinbalik" />
+
+        <meta-data
+            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+            android:value="text,barcode" />
+    </application>
+
+</manifest>

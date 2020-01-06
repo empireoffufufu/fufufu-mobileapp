@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">FUFUFU</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="button2">DAFTAR</string>
+    <string name="button3">Kembali ke HOME</string>
+    <string name="button4">SIMPAN</string>
+    <string name="image">Gambar</string>
+    <string name="halaman1">HALAMAN DAFTAR</string>
+    <string name="halaman2">Daftar Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">NAMA</string>
+    <string name="kelas">KELAS</string>
+    <string name="alamat">alamat</string>
+    <string name="nohp">NOHP</string>
+    <string name="button5">GOOGLE LOGIN</string>
+    <string name="logout">Keluar</string>
+    <string name="button6">Barcode Recognition</string>
+    <string name="button7">LIST</string>
+    <string name="barang">Barang</string>
+    <string name="halaman3">mahasiswa</string>
+    <string name="pinjam">PINJAM BARANG</string>
+    <string name="button8">PINJAM</string>
+    <string name="halaman4">PINJAM?</string>
+    <string name="profil">Akun Mahasiswa</string>
+    <string name="antri">Antrian</string>
+    <string name="editprof">EDIT PROFIL</string>
+    <string name="cancel">Cancel</string>
+    <string name="sarana">Sarana Belajar</string>
+    <string name="tambahsarana">Tambah Sarana</string>
+    <string name="stok">Jumlah Sarana</string>
+    <string name="kondisi">Kondisi</string>
+    <string name="lokasi">lokasi</string>
+
+
+</resources>
+
